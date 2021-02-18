@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Mixer Tester
+Comment=SDL Mixer tester
+Exec=play.dge
+Icon=play
+Categories=applications;
+Terminal=false
+Type=Application
+StartupNotify=true

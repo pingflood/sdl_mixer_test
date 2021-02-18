@@ -1,0 +1,7 @@
+*.dge
+*.o
+*.d
+*.elf
+*.opk
+*.ipk
+*.bin
